@@ -1,0 +1,145 @@
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Debug\net6.0\appsettings.json
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Debug\net6.0\mysqlAPI.exe
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Debug\net6.0\mysqlAPI.deps.json
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Debug\net6.0\mysqlAPI.runtimeconfig.json
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Debug\net6.0\mysqlAPI.dll
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Debug\net6.0\mysqlAPI.pdb
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\obj\Debug\net6.0\mysqlAPI.csproj.AssemblyReference.cache
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\obj\Debug\net6.0\mysqlAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\obj\Debug\net6.0\mysqlAPI.AssemblyInfoInputs.cache
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\obj\Debug\net6.0\mysqlAPI.AssemblyInfo.cs
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\obj\Debug\net6.0\mysqlAPI.csproj.CoreCompileInputs.cache
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\obj\Debug\net6.0\mysqlAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\obj\Debug\net6.0\mysqlAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\obj\Debug\net6.0\scopedcss\bundle\mysqlAPI.styles.css
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\obj\Debug\net6.0\mysqlAPI.csproj.CopyComplete
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\obj\Debug\net6.0\mysqlAPI.dll
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\obj\Debug\net6.0\refint\mysqlAPI.dll
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\obj\Debug\net6.0\mysqlAPI.pdb
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\obj\Debug\net6.0\mysqlAPI.genruntimeconfig.cache
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\obj\Debug\net6.0\ref\mysqlAPI.dll
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Debug\net6.0\Dapper.dll
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Debug\net6.0\MySqlConnector.dll
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\bin\Debug\net6.0\appsettings.Development.json
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\bin\Debug\net6.0\appsettings.json
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.exe
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.deps.json
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.runtimeconfig.json
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.dll
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.pdb
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\bin\Debug\net6.0\Dapper.dll
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\bin\Debug\net6.0\MySqlConnector.dll
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.csproj.AssemblyReference.cache
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.AssemblyInfoInputs.cache
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.AssemblyInfo.cs
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.csproj.CoreCompileInputs.cache
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\obj\Debug\net6.0\staticwebassets.build.json
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\obj\Debug\net6.0\staticwebassets.development.json
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\obj\Debug\net6.0\scopedcss\bundle\mysqlAPI.styles.css
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.csproj.CopyComplete
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.dll
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\obj\Debug\net6.0\refint\mysqlAPI.dll
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.pdb
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.genruntimeconfig.cache
+E:\antonio_cruz\Programacao\yes_we_code\yes-w-code-app-back-end\obj\Debug\net6.0\ref\mysqlAPI.dll
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\bin\Debug\net6.0\appsettings.json
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.exe
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.deps.json
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.runtimeconfig.json
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.dll
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.pdb
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\bin\Debug\net6.0\Dapper.dll
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.csproj.AssemblyReference.cache
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.AssemblyInfoInputs.cache
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.AssemblyInfo.cs
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\obj\Debug\net6.0\scopedcss\bundle\mysqlAPI.styles.css
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.csproj.CopyComplete
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.dll
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\obj\Debug\net6.0\refint\mysqlAPI.dll
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.pdb
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.genruntimeconfig.cache
+C:\Users\Win10\Downloads\yes-w-code-app-back-end\obj\Debug\net6.0\ref\mysqlAPI.dll
+D:\Code\Beto\yes-w-code-app-back-end\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\Beto\yes-w-code-app-back-end\bin\Debug\net6.0\appsettings.json
+D:\Code\Beto\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.exe
+D:\Code\Beto\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.deps.json
+D:\Code\Beto\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.runtimeconfig.json
+D:\Code\Beto\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.dll
+D:\Code\Beto\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.pdb
+D:\Code\Beto\yes-w-code-app-back-end\bin\Debug\net6.0\Dapper.dll
+D:\Code\Beto\yes-w-code-app-back-end\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Code\Beto\yes-w-code-app-back-end\bin\Debug\net6.0\MySqlConnector.dll
+D:\Code\Beto\yes-w-code-app-back-end\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\Beto\yes-w-code-app-back-end\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\Beto\yes-w-code-app-back-end\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\Beto\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.csproj.AssemblyReference.cache
+D:\Code\Beto\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Beto\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.AssemblyInfoInputs.cache
+D:\Code\Beto\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.AssemblyInfo.cs
+D:\Code\Beto\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.csproj.CoreCompileInputs.cache
+D:\Code\Beto\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\Beto\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Beto\yes-w-code-app-back-end\obj\Debug\net6.0\staticwebassets.build.json
+D:\Code\Beto\yes-w-code-app-back-end\obj\Debug\net6.0\staticwebassets.development.json
+D:\Code\Beto\yes-w-code-app-back-end\obj\Debug\net6.0\scopedcss\bundle\mysqlAPI.styles.css
+D:\Code\Beto\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.csproj.CopyComplete
+D:\Code\Beto\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.dll
+D:\Code\Beto\yes-w-code-app-back-end\obj\Debug\net6.0\refint\mysqlAPI.dll
+D:\Code\Beto\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.pdb
+D:\Code\Beto\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.genruntimeconfig.cache
+D:\Code\Beto\yes-w-code-app-back-end\obj\Debug\net6.0\ref\mysqlAPI.dll
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.csproj.AssemblyReference.cache
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.dll
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\obj\Debug\net6.0\refint\mysqlAPI.dll
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.pdb
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\bin\Debug\net6.0\appsettings.Development.json
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\bin\Debug\net6.0\appsettings.json
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.exe
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.deps.json
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.runtimeconfig.json
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.dll
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\bin\Debug\net6.0\Dapper.dll
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\bin\Debug\net6.0\MySqlConnector.dll
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.AssemblyInfoInputs.cache
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.AssemblyInfo.cs
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.csproj.CoreCompileInputs.cache
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\obj\Debug\net6.0\staticwebassets.build.json
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\obj\Debug\net6.0\staticwebassets.development.json
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\obj\Debug\net6.0\scopedcss\bundle\mysqlAPI.styles.css
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.csproj.CopyComplete
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\obj\Debug\net6.0\mysqlAPI.genruntimeconfig.cache
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\bin\Debug\net6.0\mysqlAPI.pdb
+C:\Pessoal\yescode\cod marc\yes-w-code-app-back-end (1)\yes-w-code-app-back-end\obj\Debug\net6.0\ref\mysqlAPI.dll

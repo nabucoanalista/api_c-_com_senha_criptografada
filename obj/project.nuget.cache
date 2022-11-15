@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "EwWAtFWTqgo58OkLqv2NMOAh1LFECxjx4yK6DsOmhr73AY1A6W/Gy1DrFpvO97pV9TYcmnVWSHThaX/UPGRA3A==",
+  "success": true,
+  "projectFilePath": "C:\\Pessoal\\yescode\\cod marc\\yes-w-code-app-back-end (1)\\yes-w-code-app-back-end\\mysqlAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iberc\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\iberc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\iberc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\iberc\\.nuget\\packages\\mysqlconnector\\2.1.10\\mysqlconnector.2.1.10.nupkg.sha512",
+    "C:\\Users\\iberc\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\iberc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\iberc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\iberc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

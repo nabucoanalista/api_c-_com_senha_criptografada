@@ -1,0 +1,13 @@
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Release\net6.0\publish\mysqlAPI.exe
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Release\net6.0\publish\appsettings.Development.json
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Release\net6.0\publish\appsettings.json
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Release\net6.0\publish\mysqlAPI.dll
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Release\net6.0\publish\mysqlAPI.deps.json
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Release\net6.0\publish\mysqlAPI.runtimeconfig.json
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Release\net6.0\publish\mysqlAPI.pdb
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Release\net6.0\publish\Dapper.dll
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Release\net6.0\publish\MySqlConnector.dll
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\antonio_cruz\Programacao\yes_we_code\mysqlAPI\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
